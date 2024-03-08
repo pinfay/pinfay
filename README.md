@@ -45,7 +45,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://www.gifsanimes.fr/images/n/nyan/nyan-gifs-animes-891969.gif"  />
+  <img height="200" src="https://www.shutterstock.com/shutterstock/videos/1108397841/thumb/1.jpg?ip=x480"  />
 </div>
 
 ###
