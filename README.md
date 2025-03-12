@@ -1,4 +1,5 @@
-<p align="left">Olá 😁! É um prazer ter você aqui!</p>
+[### Bem-vindos(as), DEVs!
+<div>Me chamo Lorena e sou uma entusiasta da programação, explorando o universo da cibersegurança e do desenvolvimento de software!</div> <h3>Sobre mim</h3> <div>Sou Software Engineer e estou cursando Engenharia de Software. Sempre em busca de aprender mais, gosto de explorar tecnologias voltadas para segurança da informação e sistemas robustos.<br><br> Estou interessada em oportunidades para colaborar em projetos desafiadores em empresas que valorizam inovação, aprendizado contínuo e um ambiente de trabalho inclusivo.<br><br> Quando não estou codificando, você pode me encontrar imersa no mundo dos games, assistindo animes ou descobrindo novos filmes e séries. Sim, sou um pouco nerd nesse aspecto! 🎮<br><br> Vamos conectar e construir algo incrível juntos!</div>
 
 ###
 
